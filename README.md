@@ -1,2 +1,2 @@
-# Clasess
+# Clases
 clases
